@@ -2,8 +2,7 @@ const nav = require('./config/nav.js')
 
 module.exports = {
   title: 'Golden-axe',
-  description:
-    '水星财富学堂', // 描述,以 <meta> 标签渲染到页面html中
+  description: '水星财富学堂', // 描述,以 <meta> 标签渲染到页面html中
   head: [
     ['link', { rel: 'icon', href: '/img/favicon.png' }], //favicons，资源放在public文件夹
     [
@@ -152,8 +151,8 @@ module.exports = {
       {
         choosen: 'gitalk',
         options: {
-          clientID: '34019b1155b0a6035864',
-          clientSecret: '0f29fa313133201bd776003a28e2b5c9e58dae35',
+          clientID: '702d7ec3a20c26ce03a7',
+          clientSecret: '10e24879499d5dd4734ea6f3bdace17bd8bf2194',
           repo: 'Golden-axe', // GitHub 仓库
           owner: 'HenryTSZ', // GitHub仓库所有者
           admin: ['HenryTSZ'], // 对仓库有写权限的人
