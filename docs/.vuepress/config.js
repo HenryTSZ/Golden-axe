@@ -106,22 +106,22 @@ module.exports = {
         thirdparty: [
           // 可选，默认 []
           {
-            title: '在 MDN 中搜索',
-            frontUrl: 'https://developer.mozilla.org/zh-CN/search?q=', // 搜索链接的前面部分
-            behindUrl: '' // 搜索链接的后面部分，可选，默认 ''
+            title: '在 天天基金网 中搜索',
+            frontUrl: 'http://fund.eastmoney.com/', // 搜索链接的前面部分
+            behindUrl: '.html' // 搜索链接的后面部分，可选，默认 ''
           },
           {
-            title: '在 Google 中搜索',
+            title: '在 中证指数有限公司 中搜索',
+            frontUrl: 'http://www.csindex.com.cn/zh-CN/search/indices?key='
+          },
+          {
+            title: '在 国证指数网 中搜索',
             frontUrl:
-              'https://www.google.com/search?hl=zh-CN&safe=off&lr=lang_zh-CN&cr=countryCN&q='
+              'http://www.cnindex.com.cn/module/index-series.html?act_menu=1&index_type=0&search='
           },
           {
-            title: '在 百度 中搜索',
-            frontUrl: 'https://www.baidu.com/#ie=UTF-8&wd='
-          },
-          {
-            title: '在 Vue API 中搜索',
-            frontUrl: 'https://cn.vuejs.org/v2/api/#'
+            title: '在 韭圈儿 中搜索',
+            frontUrl: 'https://www.funddb.cn/search/index/'
           }
         ]
       }
