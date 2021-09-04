@@ -14,7 +14,8 @@ module.exports = [
     items: [
       { text: '入门', link: '/pages/23ed85/' }, // 这些link是在相应md文件定义的永久链接。另外，注意结尾是有斜杠的
       { text: '初级', link: '/pages/1827a9/' },
-      { text: '进阶', link: '/pages/8f5a99/' }
+      { text: '进阶', link: '/pages/8f5a99/' },
+      { text: '高级', link: '/pages/82ce40/' }
     ]
   },
   {
