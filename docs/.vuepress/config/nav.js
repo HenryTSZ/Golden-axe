@@ -21,6 +21,10 @@ module.exports = [
     ]
   },
   {
+    text: '优秀文章',
+    link: '/pages/efef71/'
+  },
+  {
     text: '实用网站',
     items: [
       { text: '晨星网', link: 'http://www.morningstar.cn/' },
