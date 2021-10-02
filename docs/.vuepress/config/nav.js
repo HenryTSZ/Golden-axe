@@ -21,6 +21,18 @@ module.exports = [
     ]
   },
   {
+    text: '港股打新',
+    link: '/pages/c571ca/'
+  },
+  {
+    text: '国债逆回购',
+    link: '/pages/be5b5b/'
+  },
+  {
+    text: '股票',
+    link: '/pages/8ee78f/'
+  },
+  {
     text: '优秀文章',
     link: '/pages/efef71/'
   },
