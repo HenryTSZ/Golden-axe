@@ -34,7 +34,14 @@ module.exports = [
   },
   {
     text: '优秀文章',
-    link: '/pages/efef71/'
+    link: '/article/',
+    items: [
+      { text: '股票', link: '/pages/e47147/' },
+      { text: '基金', link: '/pages/6c4361/' },
+      { text: '可转债', link: '/pages/2fb9a5/' },
+      { text: '思维', link: '/pages/98bb75/' },
+      { text: '其他', link: '/pages/405f4d/' }
+    ]
   },
   {
     text: '实用网站',
