@@ -1,14 +1,6 @@
 module.exports = [
   { text: '首页', link: '/' },
   {
-    text: '小白营',
-    link: '/camp/' //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
-  },
-  {
-    text: '保险',
-    link: '/insure/'
-  },
-  {
     text: '基金',
     link: '/fund/',
     items: [
@@ -19,14 +11,6 @@ module.exports = [
       { text: '总复习', link: '/pages/285b7d/' },
       { text: '先锋队', link: '/pages/8b53cc/' }
     ]
-  },
-  {
-    text: '港股打新',
-    link: '/pages/c571ca/'
-  },
-  {
-    text: '国债逆回购',
-    link: '/pages/be5b5b/'
   },
   {
     text: '股票',
@@ -41,6 +25,27 @@ module.exports = [
       { text: '可转债', link: '/pages/2fb9a5/' },
       { text: '思维', link: '/pages/98bb75/' },
       { text: '其他', link: '/pages/405f4d/' }
+    ]
+  },
+  {
+    text: '其他',
+    items: [
+      {
+        text: '小白营',
+        link: '/camp/'
+      },
+      {
+        text: '保险',
+        link: '/insure/'
+      },
+      {
+        text: '港股打新',
+        link: '/pages/c571ca/'
+      },
+      {
+        text: '国债逆回购',
+        link: '/pages/be5b5b/'
+      }
     ]
   },
   {
