@@ -112,7 +112,7 @@ module.exports = {
           },
           {
             title: '在 中证指数有限公司 中搜索',
-            frontUrl: 'http://www.csindex.com.cn/zh-CN/search/indices?key='
+            frontUrl: 'https://www.csindex.com.cn/#/search?searchText='
           },
           {
             title: '在 国证指数网 中搜索',
