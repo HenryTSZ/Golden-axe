@@ -45,6 +45,10 @@ module.exports = [
       {
         text: '国债逆回购',
         link: '/pages/be5b5b/'
+      },
+      {
+        text: '萝卜投研',
+        link: '/pages/0049f3/'
       }
     ]
   },
