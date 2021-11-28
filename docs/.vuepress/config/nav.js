@@ -47,6 +47,10 @@ module.exports = [
         link: '/pages/be5b5b/'
       },
       {
+        text: '资产配置',
+        link: '/pages/dd948f/'
+      },
+      {
         text: '萝卜投研',
         link: '/pages/0049f3/'
       }
