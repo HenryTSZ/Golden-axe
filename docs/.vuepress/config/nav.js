@@ -17,6 +17,10 @@ module.exports = [
     link: '/pages/8ee78f/'
   },
   {
+    text: '投资日记',
+    link: '/pages/309591/'
+  },
+  {
     text: '优秀文章',
     link: '/article/',
     items: [
