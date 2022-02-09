@@ -21,6 +21,10 @@ module.exports = [
     link: '/pages/309591/'
   },
   {
+    text: '李财有道',
+    link: '/pages/38bea3/'
+  },
+  {
     text: '优秀文章',
     link: '/article/',
     items: [
